@@ -1,0 +1,15 @@
+province,disease,start_week,end_week
+P10,gastroenteritis,193,195
+P02,measles,166,169
+P04,influenza_like,199,203
+P01,influenza_like,220,223
+P03,influenza_like,213,217
+P05,gastroenteritis,245,247
+P00,influenza_like,240,244
+P09,measles,182,186
+P06,gastroenteritis,181,183
+P08,influenza_like,253,255
+P01,gastroenteritis,228,230
+P09,measles,198,201
+P08,influenza_like,203,205
+P03,gastroenteritis,193,195
